@@ -1,9 +1,7 @@
-apply plugin: 'idea'
-//and standard one
-apply plugin: 'java'
+
 apply plugin: 'application'
 
-sourceSets.main.java.srcDirs = ['src']
+//sourceSets.main.java.srcDirs = ['src']
 mainClassName = "com.company.Main"
 
 
