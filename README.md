@@ -9,3 +9,7 @@ Simple Calculation class with 1 unit test tags: #junit #gradle
 ###javakata03
 
 Simple Calculation class with 2 unit test using code covarage jacoco tags: #junit #gradle #jacoco
+
+###javakata04
+
+Simple project with checkstyle in build.gradle
