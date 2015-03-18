@@ -1,0 +1,16 @@
+apply plugin: "application"
+apply plugin: 'checkstyle'
+apply plugin: 'java'
+
+checkstyle {
+    toolVersion ="6.4"
+}
+
+
+
+repositories {
+    mavenCentral()
+}
+
+
+mainClassName = "org.raig.IndianPaleAle"
